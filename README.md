@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/ember-leaflet-fullscreen-control.svg)](https://badge.fury.io/js/ember-leaflet-fullscreen-control)
+
 ember-leaflet-fullscreen-control
 ==============================================================================
 
