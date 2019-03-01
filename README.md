@@ -25,6 +25,12 @@ Usage
 
 All leaflet.fullscreen are supported (e.g. `<LeafletFullscreenControl @position="topleft" />`). Have a look at the leaflet.fullscreen readme. The enter/exit fullscreen events are not supported, yet.
 
+Contributing
+------------------------------------------------------------------------------
+
+See the [Contributing](CONTRIBUTING.md) guide for details.
+
+
 License
 ------------------------------------------------------------------------------
 
