@@ -19,13 +19,13 @@ Usage
 ------------------------------------------------------------------------------
 
 ```hbs
-<LeafletMap …>
+<LeafletMap … as |layers|>
   {{!-- … --}}
-  <LeafletFullscreenControl />
+  <layers.fullscreen-control />
 </LeafletMap>
 ```
 
-All leaflet.fullscreen are supported (e.g. `<LeafletFullscreenControl @position="topleft" />`). Have a look at the leaflet.fullscreen readme. The enter/exit fullscreen events are not supported, yet.
+All leaflet.fullscreen options are supported (e.g. `<layers.fullscreen-control @position="topleft" />`). Have a look at the leaflet.fullscreen readme. The enter/exit fullscreen events are not supported, yet.
 
 Contributing
 ------------------------------------------------------------------------------
