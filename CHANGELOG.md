@@ -6,7 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## Unreleased
-– …
+### Changed
+- …
+
+## [1.0.0] - 2019-03-13
+### Added
+- Available as contextual component `fullscreen-control` on leaflet map
+
+### Fixed
+– Usage of `position` options
+
+### Changed
+- Dependency updates
 
 ## [0.1.2] - 2019-03-01
 ### Changed
