@@ -2,7 +2,7 @@ import BaseLayer from 'ember-leaflet/components/base-layer';
 
 class LeafletFullscreenControl extends BaseLayer {
   leafletOptions = [
-    'pofullscsition',
+    'position',
     'title',
     'titleCancel',
     'content',
